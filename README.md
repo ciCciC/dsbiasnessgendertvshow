@@ -1,6 +1,6 @@
 # Analyzing biasness towards (fe)male within TV show discussions by utilizing NLP and Word2Vec
 
-### Operationalization: 2021/2022
+### Operationalization: 2021
 
 Below you will find the list of the imported libraries for being able to use certain functions for desired usage.
 
